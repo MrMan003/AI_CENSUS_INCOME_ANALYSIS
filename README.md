@@ -48,7 +48,7 @@ To build an AI system that:
 ## Usage
 
 1. Clone the repo  
-   `git clone https://github.com/yourusername/AI_Census_Income_Analysis.git`
+   `git clone https://github.com/MrMan00/AI_Census_Income_Analysis.git`
 
 2. Install dependencies  
    `pip install -r requirements.txt`
